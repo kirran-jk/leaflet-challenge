@@ -12,7 +12,7 @@ This repository contains the following:
 
   * When clicked on the pop ups provide detail on the location, magnitude and depth of the earthquake.
 
-[Part 1 Visualisation](Leaflet-Part-1/index.html)
+[Part 1 Visualisation](Images/Part-1.jpeg)
 
 ### Part 2:
 
@@ -20,4 +20,4 @@ This repository contains the following:
 
   * An additional layer can be selected to view tectonic plates.
 
-[Part 2 Visualisation](Leaflet-Part-2/index.html)
+[Part 2 Visualisation](Images/Part-2.jpeg)
